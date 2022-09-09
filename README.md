@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning unity on and off where off is a year break
 - 💞️ I’m looking to collaborate on nothing rn lol
-- 📫 How to reach me ... bored boi#2544 on discord
+- 📫 How to reach me ... bored boi#2544 on discord (make sure to make an issue on this repository with your discord so i know who you are)
 
 <!---
 Tritical1/Tritical1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
